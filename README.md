@@ -2,7 +2,7 @@
 <hr>
 
 This project is a simple website created to wish a friend a happy birthday! The site is built using HTML and CSS and features a fun interaction where friends can hover over a gift, triggering a change in the background image of a div, as if they are unwrapping a present.
-The site is available to view <a href="">here</a>
+The site is available to view <a href="https://blissfulwishes.netlify.app/">here</a>
 
 ## Features
 - Birthday Wishes: Send warm wishes and celebrate your friend's special day. 🥳
